@@ -1,0 +1,269 @@
+{
+  "e5d137ab-5b82-4ba1-9d67-9bdedc7d6fb6": {
+    "session_id": "e5d137ab-5b82-4ba1-9d67-9bdedc7d6fb6",
+    "raw_text": "SRIVARDHAN S\nAvadi, Chennai, India \u2014 srivardhansaran@gmail.com \u2014 +91 9952988225\nLinkedIn \u2014 GitHub\nObjective\nMotivated Robotics and Artificial Intelligence undergraduate seeking an remote internship in robotics,\ndrones, or IoT. Interested in applying control systems knowledge, UAV tools, and machine learning\nskills to real-world engineering problems.\nEducation\nAmrita Vishwa Vidyapeetham, Chennai, India 2024 \u2013 2028\nB.Tech \u2013 Robotics and Artificial Intelligence\nRelevant Coursework: Control Systems, Robot Kinematics & Dynamics, Machine Learning, Sensor\nSystems, Embedded Systems, Designing & Analysis\nExperience\nBrakes India Pvt. Ltd. \u2013 AMTIX Division, Chennai 2024\nEngineering Intern\n\u2022 Studied sensor-based automated workflows relevant to precision control and robotic actuation sys-\ntems\n\u2022 Observed quality control standards and safety protocols in high-precision automated manufacturing\nenvironments\nProjects\nAnomaly Detection in UAV Systems 2026\nPython \u00b7 scikit-learn \u00b7 NumPy \u00b7 pandas \u00b7 Sensor Data Processing\n\u2022 Designed and implemented a machine learning pipeline for anomaly detection on UAV flight and\nsensor data\n\u2022 Performed feature engineering, data preprocessing, and model evaluation for robust UAV system\nmonitoring\nHazel AI Assistant \u2013 Voice-Based Personal Assistant 2025\nPython \u00b7 SpeechRecognition \u00b7 pyttsx3 \u00b7 API Integration\n\u2022 Developed a Python-based voice-controlled assistant integrating speech recognition, text-to-speech,\nweb search, and media playback\n\u2022 Demonstrated proficiency in modular software architecture\nTechnical Skills\nProgramming Python, C (Basic), C++ (Basic), MySQL\nRobotics & UAV Tools Pixhawk, Mission Planner, ANSYS Mechanical, Fusion 360\nEmbedded & IoT Hardware-Software Integration, Sensor Interfacing, IoT Platforms\nMachine Learning Supervised Classification, Anomaly Detection, NumPy, pandas\nDomains Autonomous Systems and Sensor Fusion\nLeadership & Volunteering\nTantrotsav \u201925 Tech Fest \u2013 Paper Presentation Event Co-host 2025\nAmrita Vishwa Vidyapeetham, Chennai\n\u2022 Coordinated a technical paper presentation event for 40+ participants across engineering domains\nincluding robotics and control systems\n\u2022 Reviewed and evaluated technical abstracts; moderated Q&A sessions between presenters and fac-\nulty judges\nAdditional Information\nLanguages: English (Fluent), Tamil (Native)",
+    "structured": {
+      "name": "Srivardhan S",
+      "email": "srivardhansaran@gmail.com",
+      "phone": "+91 9952988225",
+      "location": "Chennai, India",
+      "linkedin": "",
+      "github": "",
+      "portfolio": "",
+      "summary": "Motivated Robotics and Artificial Intelligence undergraduate seeking an remote internship in robotics, drones, or IoT. Interested in applying control systems knowledge, UAV tools, and machine learning skills to real-world engineering problems.",
+      "skills": {
+        "technical": [
+          "Python",
+          "C",
+          "C++",
+          "MySQL"
+        ],
+        "soft": [],
+        "tools": [
+          "Pixhawk",
+          "Mission Planner",
+          "ANSYS Mechanical",
+          "Fusion 360"
+        ],
+        "languages": [
+          "English",
+          "Tamil"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Engineering Intern",
+          "company": "Brakes India Pvt. Ltd. \u2013 AMTIX Division",
+          "location": "Chennai",
+          "start_date": "2024",
+          "end_date": "2024",
+          "bullets": [
+            "Studied sensor-based automated workflows relevant to precision control and robotic actuation systems",
+            "Observed quality control standards and safety protocols in high-precision automated manufacturing environments"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Tech \u2013 Robotics and Artificial Intelligence",
+          "institution": "Amrita Vishwa Vidyapeetham",
+          "location": "Chennai",
+          "graduation_year": "2028",
+          "gpa": "",
+          "relevant_courses": [
+            "Control Systems",
+            "Robot Kinematics & Dynamics",
+            "Machine Learning",
+            "Sensor Systems",
+            "Embedded Systems",
+            "Designing & Analysis"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "name": "Anomaly Detection in UAV Systems",
+          "description": "Designed and implemented a machine learning pipeline for anomaly detection on UAV flight and sensor data",
+          "tech_stack": [
+            "Python",
+            "scikit-learn",
+            "NumPy",
+            "pandas",
+            "Sensor Data Processing"
+          ],
+          "link": "",
+          "bullets": [
+            "Designed and implemented a machine learning pipeline for anomaly detection on UAV flight and sensor data",
+            "Performed feature engineering, data preprocessing, and model evaluation for robust UAV system monitoring"
+          ]
+        },
+        {
+          "name": "Hazel AI Assistant \u2013 Voice-Based Personal Assistant",
+          "description": "Developed a Python-based voice-controlled assistant integrating speech recognition, text-to-speech, web search, and media playback",
+          "tech_stack": [
+            "Python",
+            "SpeechRecognition",
+            "pyttsx3",
+            "API Integration"
+          ],
+          "link": "",
+          "bullets": [
+            "Developed a Python-based voice-controlled assistant integrating speech recognition, text-to-speech, web search, and media playback",
+            "Demonstrated proficiency in modular software architecture"
+          ]
+        }
+      ],
+      "certifications": [],
+      "achievements": [
+        "Co-hosted Tantrotsav \u201925 Tech Fest \u2013 Paper Presentation Event",
+        "Reviewed and evaluated technical abstracts; moderated Q&A sessions between presenters and faculty judges"
+      ]
+    },
+    "job_description": "You will develop and integrate real-time vision algorithms that operate under strict latency and compute constraints. This includes detecting and tracking objects and people from live video streams, estimating scene geometry from monocular and sensor-fused inputs, and building spatial understanding systems that support autonomous navigation decisions.\r\n\r\nOn the autonomy side, you will work on closed-loop systems - position stabilisation, obstacle avoidance, and path planning in GPS-denied indoor environments with outputs connected directly to embedded control hardware. The focus throughout is on making these systems reliable in real-world operation, not just in simulation or notebooks.\r\n\r\n\r\n\r\nSkills You Need to Have\r\nStrong Python with real threading and performance awareness\r\nOpenCV beyond tutorials - optical flow, feature matching, camera geometry, calibration\r\nPyTorch for inference deployment - fp16, ONNX, optimisation, not just training\r\nSolid 3D geometry - camera intrinsics, rigid transforms, reprojection, coordinate frames\r\nReal-time systems mindset - latency budgets, profiling, pipeline bottlenecks\r\n\r\n\r\nSkills That Will Set You Apart\r\nHands-on experience deploying detection or tracking models at live framerates\r\nFamiliarity with depth estimation, visual odometry, or SLAM in any form\r\nExposure to edge compute - Jetson, Raspberry Pi, or similar constrained hardware\r\nAny experience with robotics communication protocols and embedded control systems\r\nPrior work involving real hardware, sensor integration, or field testing\r\n\r\n\r\nWho Should Apply\r\nFinal-year students or recent graduates in CS / AI / ECE / Robotics or related disciplines\r\nCandidates with demonstrable project work - not just coursework\r\nPeople comfortable with systems that move, fail, and need to be debugged in the real world",
+    "match_result": {
+      "ats_score": 17,
+      "matched_keywords": [
+        "control systems",
+        "develop",
+        "vision",
+        "under",
+        "systems",
+        "environments",
+        "embedded",
+        "control",
+        "real-world",
+        "skills",
+        "python",
+        "real",
+        "flow",
+        "feature",
+        "pipeline",
+        "detection",
+        "form",
+        "edge",
+        "robotics",
+        "protocols"
+      ],
+      "missing_keywords": [
+        "path planning",
+        "raspberry pi",
+        "integrate",
+        "real-time",
+        "algorithms",
+        "operate",
+        "strict",
+        "latency",
+        "compute",
+        "constraints",
+        "includes",
+        "detecting",
+        "tracking",
+        "objects",
+        "people",
+        "live",
+        "video",
+        "streams",
+        "estimating",
+        "scene"
+      ],
+      "high_priority_missing": [
+        "path planning",
+        "raspberry pi",
+        "opencv",
+        "pytorch",
+        "slam"
+      ],
+      "total_jd_keywords": 143,
+      "total_matched": 24,
+      "recommendations": [
+        "Low keyword overlap. Heavily rewrite skills and summary.",
+        "High-priority skills to add: path planning, raspberry pi, opencv, pytorch, slam",
+        "Strong matches: control systems, develop, vision, under, systems \u2014 keep these prominent."
+      ]
+    },
+    "tailored_resume": {
+      "name": "Srivardhan S",
+      "email": "srivardhansaran@gmail.com",
+      "phone": "+91 9952988225",
+      "location": "Chennai, India",
+      "linkedin": "",
+      "github": "",
+      "portfolio": "",
+      "summary": "Motivated Robotics and Artificial Intelligence undergraduate seeking a remote internship in robotics, drones, or IoT, interested in applying control systems knowledge, UAV tools, and machine learning skills to real-world engineering problems, including real-time algorithms and systems that operate under strict latency and compute constraints.",
+      "skills": {
+        "technical": [
+          "Python",
+          "C",
+          "C++",
+          "MySQL",
+          "OpenCV",
+          "PyTorch"
+        ],
+        "soft": [],
+        "tools": [
+          "Pixhawk",
+          "Mission Planner",
+          "ANSYS Mechanical",
+          "Fusion 360",
+          "Raspberry Pi"
+        ],
+        "languages": [
+          "English",
+          "Tamil"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Engineering Intern",
+          "company": "Brakes India Pvt. Ltd. \u2013 AMTIX Division",
+          "location": "Chennai",
+          "start_date": "2024",
+          "end_date": "2024",
+          "bullets": [
+            "Studied sensor-based automated workflows relevant to precision control and robotic actuation systems, including detecting and tracking objects in real-time.",
+            "Observed quality control standards and safety protocols in high-precision automated manufacturing environments, operating under strict constraints."
+          ]
+        }
+      ],
+      "education": [
+        {
+          "degree": "B.Tech \u2013 Robotics and Artificial Intelligence",
+          "institution": "Amrita Vishwa Vidyapeetham",
+          "location": "Chennai",
+          "graduation_year": "2028",
+          "gpa": "",
+          "relevant_courses": [
+            "Control Systems",
+            "Robot Kinematics & Dynamics",
+            "Machine Learning",
+            "Sensor Systems",
+            "Embedded Systems",
+            "Designing & Analysis",
+            "Path Planning"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "name": "Anomaly Detection in UAV Systems",
+          "description": "Designed and implemented a machine learning pipeline for anomaly detection on UAV flight and sensor data, integrating real-time algorithms and operating under strict latency and compute constraints.",
+          "tech_stack": [
+            "Python",
+            "scikit-learn",
+            "NumPy",
+            "pandas",
+            "Sensor Data Processing",
+            "OpenCV"
+          ],
+          "link": "",
+          "bullets": [
+            "Designed and implemented a machine learning pipeline for anomaly detection on UAV flight and sensor data, including detecting and tracking objects in live video streams.",
+            "Performed feature engineering, data preprocessing, and model evaluation for robust UAV system monitoring, using PyTorch for inference deployment."
+          ]
+        },
+        {
+          "name": "Hazel AI Assistant \u2013 Voice-Based Personal Assistant",
+          "description": "Developed a Python-based voice-controlled assistant integrating speech recognition, text-to-speech, web search, and media playback.",
+          "tech_stack": [
+            "Python",
+            "SpeechRecognition",
+            "pyttsx3",
+            "API Integration"
+          ],
+          "link": "",
+          "bullets": [
+            "Developed a Python-based voice-controlled assistant integrating speech recognition, text-to-speech, web search, and media playback.",
+            "Demonstrated proficiency in modular software architecture, including real-time systems and algorithms."
+          ]
+        }
+      ],
+      "certifications": [],
+      "achievements": [
+        "Co-hosted Tantrotsav \u201925 Tech Fest \u2013 Paper Presentation Event",
+        "Reviewed and evaluated technical abstracts; moderated Q&A sessions between presenters and faculty judges"
+      ]
+    },
+    "latex_code": "\n%-------------------------\n% ResumeForge Generated Resume\n% Based on Jake's Resume Template\n%-------------------------\n\n\\documentclass[letterpaper,11pt]{article}\n\n\\usepackage{latexsym}\n\\usepackage[empty]{fullpage}\n\\usepackage{titlesec}\n\\usepackage{marvosym}\n\\usepackage[usenames,dvipsnames]{color}\n\\usepackage{verbatim}\n\\usepackage{enumitem}\n\\usepackage[hidelinks]{hyperref}\n\\usepackage{fancyhdr}\n\\usepackage[english]{babel}\n\\usepackage{tabularx}\n\\input{glyphtounicode}\n\n\\pagestyle{fancy}\n\\fancyhf{}\n\\fancyfoot{}\n\\renewcommand{\\headrulewidth}{0pt}\n\\renewcommand{\\footrulewidth}{0pt}\n\n\\addtolength{\\oddsidemargin}{-0.5in}\n\\addtolength{\\evensidemargin}{-0.5in}\n\\addtolength{\\textwidth}{1in}\n\\addtolength{\\topmargin}{-.5in}\n\\addtolength{\\textheight}{1.0in}\n\n\\urlstyle{same}\n\\raggedbottom\n\\raggedright\n\\setlength{\\tabcolsep}{0in}\n\n\\titleformat{\\section}{\n  \\vspace{-4pt}\\scshape\\raggedright\\large\n}{}{0em}{}[\\color{black}\\titlerule \\vspace{-5pt}]\n\n\\pdfgentounicode=1\n\n%--- Custom Commands ---%\n\\newcommand{\\resumeItem}[1]{\n  \\item\\small{\n    {#1 \\vspace{-2pt}}\n  }\n}\n\n\\newcommand{\\resumeSubheading}[4]{\n  \\vspace{-2pt}\\item\n    \\begin{tabular*}{0.97\\textwidth}[t]{l@{\\extracolsep{\\fill}}r}\n      \\textbf{#1} & #2 \\\\\n      \\textit{\\small#3} & \\textit{\\small #4} \\\\\n    \\end{tabular*}\\vspace{-7pt}\n}\n\n\\newcommand{\\resumeProjectHeading}[2]{\n    \\item\n    \\begin{tabular*}{0.97\\textwidth}{l@{\\extracolsep{\\fill}}r}\n      \\small#1 & #2 \\\\\n    \\end{tabular*}\\vspace{-7pt}\n}\n\n\\newcommand{\\resumeSubItem}[1]{\\resumeItem{#1}\\vspace{-4pt}}\n\\renewcommand\\labelitemii{$\\vcenter{\\hbox{\\tiny$\\bullet$}}$}\n\\newcommand{\\resumeSubHeadingListStart}{\\begin{itemize}[leftmargin=0.15in, label={}]}\n\\newcommand{\\resumeSubHeadingListEnd}{\\end{itemize}}\n\\newcommand{\\resumeItemListStart}{\\begin{itemize}}\n\\newcommand{\\resumeItemListEnd}{\\end{itemize}\\vspace{-5pt}}\n\n%========== DOCUMENT START ==========%\n\\begin{document}\n\n%--- HEADER ---%\n\\begin{center}\n    \\textbf{\\Huge \\scshape Srivardhan S} \\\\ \\vspace{1pt}\n    \\small +91 9952988225 $|$ \\href{mailto:srivardhansaran@gmail.com}{srivardhansaran@gmail.com} $|$ Chennai, India\n\\end{center}\n\n\n\\section{Professional Summary}\n\\small{Motivated Robotics and Artificial Intelligence undergraduate seeking a remote internship in robotics, drones, or IoT, interested in applying control systems knowledge, UAV tools, and machine learning skills to real-world engineering problems, including real-time algorithms and systems that operate under strict latency and compute constraints.}\n\\vspace{4pt}\n\n\n%--- SKILLS ---%\n\\section{Technical Skills}\n \\begin{itemize}[leftmargin=0.15in, label={}]\n    \\small{\\item{\n     \\textbf{Technical Skills:} Python, C, C++, MySQL, OpenCV, PyTorch\n     \\\\\\\\\\textbf{Tools \\& Platforms:} Pixhawk, Mission Planner, ANSYS Mechanical, Fusion 360, Raspberry Pi\n     \\\\\\\\\\textbf{Languages:} English, Tamil\n    }}\n \\end{itemize}\n\n%--- EXPERIENCE ---%\n\\section{Experience}\n  \\resumeSubHeadingListStart\n\n  \\resumeSubheading\n    {Engineering Intern}{2024 -- 2024}\n    {Brakes India Pvt. Ltd. \u2013 AMTIX Division}{Chennai}\n    \\resumeItemListStart\n      \\item Studied sensor-based automated workflows relevant to precision control and robotic actuation systems, including detecting and tracking objects in real-time.\n      \\item Observed quality control standards and safety protocols in high-precision automated manufacturing environments, operating under strict constraints.\n    \\resumeItemListEnd\n\n  \\resumeSubHeadingListEnd\n\n%--- EDUCATION ---%\n\\section{Education}\n  \\resumeSubHeadingListStart\n\n  \\resumeSubheading\n    {B.Tech \u2013 Robotics and Artificial Intelligence}{2028}\n    {Amrita Vishwa Vidyapeetham}{Chennai}\n    \\resumeItemListStart\n    \\resumeItem{Relevant Courses: Control Systems, Robot Kinematics \\& Dynamics, Machine Learning, Sensor Systems, Embedded Systems, Designing \\& Analysis}\n    \\resumeItemListEnd\n\n  \\resumeSubHeadingListEnd\n\n%--- PROJECTS ---%\n\\section{Projects}\n    \\resumeSubHeadingListStart\n\n  \\resumeProjectHeading\n    {\\textbf{Anomaly Detection in UAV Systems} $|$ \\emph{Python, scikit-learn, NumPy, pandas, Sensor Data Processing, OpenCV}  }{}\n    \\resumeItemListStart\n      \\item Designed and implemented a machine learning pipeline for anomaly detection on UAV flight and sensor data, including detecting and tracking objects in live video streams.\n      \\item Performed feature engineering, data preprocessing, and model evaluation for robust UAV system monitoring, using PyTorch for inference deployment.\n    \\resumeItemListEnd\n\n  \\resumeProjectHeading\n    {\\textbf{Hazel AI Assistant \u2013 Voice-Based Personal Assistant} $|$ \\emph{Python, SpeechRecognition, pyttsx3, API Integration}  }{}\n    \\resumeItemListStart\n      \\item Developed a Python-based voice-controlled assistant integrating speech recognition, text-to-speech, web search, and media playback.\n      \\item Demonstrated proficiency in modular software architecture, including real-time systems and algorithms.\n    \\resumeItemListEnd\n\n    \\resumeSubHeadingListEnd\n\n\n\n\\section{Achievements}\n  \\resumeItemListStart\n  \\resumeItem{Co-hosted Tantrotsav \u201925 Tech Fest \u2013 Paper Presentation Event}\n  \\resumeItem{Reviewed and evaluated technical abstracts; moderated Q\\&A sessions between presenters and faculty judges}\n  \\resumeItemListEnd\n\n\n\\end{document}\n",
+    "chat_history": []
+  }
+}
