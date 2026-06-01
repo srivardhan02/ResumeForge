@@ -94,7 +94,6 @@ Resumeforge/
 ├── Upload.jsx       # Step 1: upload + job description
 ├── Results.jsx      # Step 2: ATS score + analysis
 └── Editor.jsx       # Step 3: preview + chat + download
-
 ---
 
 ## API Endpoints
