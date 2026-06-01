@@ -74,6 +74,8 @@ npm start
 ---
 
 ## Project Structure
+
+```
 Resumeforge/
 ├── backend/
 │   ├── main.py                  # FastAPI app, all routes
@@ -88,12 +90,13 @@ Resumeforge/
 │       ├── latex_generator.py   # LaTeX template + PDF compile
 │       └── chatbot.py           # Chat with sliding window memory
 └── frontend/
-└── src/
-├── App.jsx
-└── pages/
-├── Upload.jsx       # Step 1: upload + job description
-├── Results.jsx      # Step 2: ATS score + analysis
-└── Editor.jsx       # Step 3: preview + chat + download
+    └── src/
+        ├── App.jsx
+        └── pages/
+            ├── Upload.jsx       # Step 1: upload + job description
+            ├── Results.jsx      # Step 2: ATS score + analysis
+            └── Editor.jsx       # Step 3: preview + chat + download
+```
 ---
 
 ## API Endpoints
